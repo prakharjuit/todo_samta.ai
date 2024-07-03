@@ -1,3 +1,10 @@
+Screenshot
+![image](https://github.com/prakharjuit/todo_samta.ai/assets/88184122/6f5d183a-b677-4ce2-97ab-83eb83af077f)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
